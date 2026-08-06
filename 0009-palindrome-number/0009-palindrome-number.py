@@ -6,9 +6,6 @@ class Solution:
         temp = x
         rev = 0
         while temp > 0:
-            d = temp % 10
-            temp //= 10
-            rev = rev * 10 + d
-        if rev == x:
-            return True
-        return False
+            rev = rev * 10 + temp % 10 
+            temp //=10
+        return rev == x

@@ -9,6 +9,7 @@ Solving Leetcode with python 3
 | [0001-two-sum](https://github.com/lucidfoxx/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lucidfoxx/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

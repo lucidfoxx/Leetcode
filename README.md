@@ -20,6 +20,7 @@ Solving Leetcode with python 3
 | ------- |
 | [0009-palindrome-number](https://github.com/lucidfoxx/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,9 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

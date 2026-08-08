@@ -30,6 +30,7 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/lucidfoxx/Leetcode/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |

@@ -7,6 +7,7 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lucidfoxx/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/lucidfoxx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lucidfoxx/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
@@ -30,6 +31,7 @@ Solving Leetcode with python 3
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lucidfoxx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lucidfoxx/Leetcode/tree/master/0058-length-of-last-word) |
 ## String Matching
@@ -57,4 +59,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lucidfoxx/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

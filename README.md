@@ -12,6 +12,7 @@ Solving Leetcode with python 3
 | [0027-remove-element](https://github.com/lucidfoxx/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
+| [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lucidfoxx/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->

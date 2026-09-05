@@ -13,6 +13,7 @@ Solving Leetcode with python 3
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/lucidfoxx/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -69,5 +70,6 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/lucidfoxx/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->

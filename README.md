@@ -37,6 +37,7 @@ Solving Leetcode with python 3
 | [0014-longest-common-prefix](https://github.com/lucidfoxx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lucidfoxx/Leetcode/tree/master/0058-length-of-last-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -84,4 +85,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lucidfoxx/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

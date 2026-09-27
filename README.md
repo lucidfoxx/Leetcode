@@ -31,6 +31,7 @@ Solving Leetcode with python 3
 | [0292-nim-game](https://github.com/lucidfoxx/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3871-count-commas-in-range-ii](https://github.com/lucidfoxx/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |

@@ -28,6 +28,7 @@ Solving Leetcode with python 3
 | [0009-palindrome-number](https://github.com/lucidfoxx/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/lucidfoxx/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/lucidfoxx/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

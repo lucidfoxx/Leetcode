@@ -14,6 +14,7 @@ Solving Leetcode with python 3
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/lucidfoxx/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -21,6 +22,7 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lucidfoxx/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ Solving Leetcode with python 3
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/lucidfoxx/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/lucidfoxx/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -72,6 +75,7 @@ Solving Leetcode with python 3
 | ------- |
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -139,4 +143,12 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

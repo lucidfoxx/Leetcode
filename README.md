@@ -52,6 +52,7 @@ Solving Leetcode with python 3
 | [0058-length-of-last-word](https://github.com/lucidfoxx/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lucidfoxx/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -138,10 +139,12 @@ Solving Leetcode with python 3
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |

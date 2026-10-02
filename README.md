@@ -12,6 +12,7 @@ Solving Leetcode with python 3
 | [0027-remove-element](https://github.com/lucidfoxx/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/lucidfoxx/Leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/lucidfoxx/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@ Solving Leetcode with python 3
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/lucidfoxx/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |

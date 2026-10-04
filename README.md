@@ -57,6 +57,7 @@ Solving Leetcode with python 3
 | [0058-length-of-last-word](https://github.com/lucidfoxx/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lucidfoxx/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -98,6 +99,7 @@ Solving Leetcode with python 3
 | [0198-house-robber](https://github.com/lucidfoxx/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/lucidfoxx/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
@@ -150,6 +152,7 @@ Solving Leetcode with python 3
 | ------- |
 | [0020-valid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -158,6 +161,7 @@ Solving Leetcode with python 3
 | [0020-valid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
@@ -177,4 +181,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lucidfoxx/Leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

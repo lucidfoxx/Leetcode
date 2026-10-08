@@ -178,6 +178,7 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lucidfoxx/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -201,4 +202,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

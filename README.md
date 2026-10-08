@@ -33,6 +33,7 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lucidfoxx/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/lucidfoxx/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/lucidfoxx/Leetcode/tree/master/0263-ugly-number) |
@@ -149,6 +150,7 @@ Solving Leetcode with python 3
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lucidfoxx/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/lucidfoxx/Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration

@@ -19,6 +19,7 @@ Solving Leetcode with python 3
 | [0219-contains-duplicate-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lucidfoxx/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -157,6 +158,7 @@ Solving Leetcode with python 3
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lucidfoxx/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |

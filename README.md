@@ -20,6 +20,7 @@ Solving Leetcode with python 3
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/lucidfoxx/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lucidfoxx/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lucidfoxx/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |

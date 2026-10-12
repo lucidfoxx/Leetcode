@@ -22,6 +22,7 @@ Solving Leetcode with python 3
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lucidfoxx/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lucidfoxx/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lucidfoxx/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/lucidfoxx/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/lucidfoxx/Leetcode/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

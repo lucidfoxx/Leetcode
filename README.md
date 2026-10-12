@@ -25,6 +25,7 @@ Solving Leetcode with python 3
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lucidfoxx/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lucidfoxx/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/lucidfoxx/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/lucidfoxx/Leetcode/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -38,6 +39,7 @@ Solving Leetcode with python 3
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lucidfoxx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -214,6 +216,7 @@ Solving Leetcode with python 3
 | [0136-single-number](https://github.com/lucidfoxx/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +239,7 @@ Solving Leetcode with python 3
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lucidfoxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucidfoxx/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |

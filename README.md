@@ -53,6 +53,7 @@ Solving Leetcode with python 3
 | [0292-nim-game](https://github.com/lucidfoxx/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/lucidfoxx/Leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/lucidfoxx/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/lucidfoxx/Leetcode/tree/master/2652-sum-multiples) |

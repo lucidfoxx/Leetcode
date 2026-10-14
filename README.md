@@ -20,6 +20,7 @@ Solving Leetcode with python 3
 | [0217-contains-duplicate](https://github.com/lucidfoxx/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/lucidfoxx/Leetcode/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/lucidfoxx/Leetcode/tree/master/1550-three-consecutive-odds) |
@@ -233,6 +234,7 @@ Solving Leetcode with python 3
 | ------- |
 | [0217-contains-duplicate](https://github.com/lucidfoxx/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/lucidfoxx/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/lucidfoxx/Leetcode/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |

@@ -14,6 +14,7 @@ Solving Leetcode with python 3
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lucidfoxx/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lucidfoxx/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/lucidfoxx/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/lucidfoxx/Leetcode/tree/master/0217-contains-duplicate) |
@@ -223,6 +224,7 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lucidfoxx/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |

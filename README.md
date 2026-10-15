@@ -31,6 +31,7 @@ Solving Leetcode with python 3
 | [2778-sum-of-squares-of-special-elements](https://github.com/lucidfoxx/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lucidfoxx/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/lucidfoxx/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/lucidfoxx/Leetcode/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -46,6 +47,7 @@ Solving Leetcode with python 3
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lucidfoxx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -280,4 +282,12 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/lucidfoxx/Leetcode/tree/master/2974-minimum-number-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

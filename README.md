@@ -117,6 +117,7 @@ Solving Leetcode with python 3
 | [2942-find-words-containing-character](https://github.com/lucidfoxx/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/lucidfoxx/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
 | ------- |

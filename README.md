@@ -105,6 +105,7 @@ Solving Leetcode with python 3
 | [0151-reverse-words-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/lucidfoxx/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/lucidfoxx/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -219,6 +220,7 @@ Solving Leetcode with python 3
 | ------- |
 | [0020-valid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/lucidfoxx/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lucidfoxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -274,6 +276,7 @@ Solving Leetcode with python 3
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/lucidfoxx/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lucidfoxx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucidfoxx/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -318,4 +321,8 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lucidfoxx/Leetcode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/lucidfoxx/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

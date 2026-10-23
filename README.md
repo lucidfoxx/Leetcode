@@ -71,6 +71,7 @@ Solving Leetcode with python 3
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/lucidfoxx/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/lucidfoxx/Leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/lucidfoxx/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lucidfoxx/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -114,6 +115,7 @@ Solving Leetcode with python 3
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/lucidfoxx/Leetcode/tree/master/0468-validate-ip-address) |
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/lucidfoxx/Leetcode/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/lucidfoxx/Leetcode/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0856-score-of-parentheses) |

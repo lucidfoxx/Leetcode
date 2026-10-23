@@ -94,6 +94,7 @@ Solving Leetcode with python 3
 | [0125-valid-palindrome](https://github.com/lucidfoxx/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/lucidfoxx/Leetcode/tree/master/0344-reverse-string) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/lucidfoxx/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lucidfoxx/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
@@ -117,6 +118,7 @@ Solving Leetcode with python 3
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/lucidfoxx/Leetcode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/lucidfoxx/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/lucidfoxx/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/lucidfoxx/Leetcode/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0856-score-of-parentheses) |

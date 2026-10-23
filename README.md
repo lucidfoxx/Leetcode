@@ -116,6 +116,7 @@ Solving Leetcode with python 3
 | [0468-validate-ip-address](https://github.com/lucidfoxx/Leetcode/tree/master/0468-validate-ip-address) |
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/lucidfoxx/Leetcode/tree/master/0504-base-7) |
+| [0551-student-attendance-record-i](https://github.com/lucidfoxx/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/lucidfoxx/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/lucidfoxx/Leetcode/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/0856-score-of-parentheses) |

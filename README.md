@@ -78,6 +78,7 @@ Solving Leetcode with python 3
 | [0728-self-dividing-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lucidfoxx/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/lucidfoxx/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/lucidfoxx/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/lucidfoxx/Leetcode/tree/master/2652-sum-multiples) |
@@ -136,6 +137,7 @@ Solving Leetcode with python 3
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lucidfoxx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lucidfoxx/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lucidfoxx/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/lucidfoxx/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/lucidfoxx/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/lucidfoxx/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |

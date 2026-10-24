@@ -27,6 +27,7 @@ Solving Leetcode with python 3
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/lucidfoxx/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/lucidfoxx/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/lucidfoxx/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |

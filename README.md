@@ -79,6 +79,7 @@ Solving Leetcode with python 3
 | [0263-ugly-number](https://github.com/lucidfoxx/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/lucidfoxx/Leetcode/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/lucidfoxx/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/lucidfoxx/Leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/lucidfoxx/Leetcode/tree/master/0509-fibonacci-number) |
@@ -126,6 +127,7 @@ Solving Leetcode with python 3
 | [0344-reverse-string](https://github.com/lucidfoxx/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lucidfoxx/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/lucidfoxx/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/lucidfoxx/Leetcode/tree/master/0468-validate-ip-address) |
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
@@ -280,6 +282,7 @@ Solving Leetcode with python 3
 | [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/lucidfoxx/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/lucidfoxx/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/lucidfoxx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting

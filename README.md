@@ -59,6 +59,7 @@ Solving Leetcode with python 3
 | [0242-valid-anagram](https://github.com/lucidfoxx/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/lucidfoxx/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/lucidfoxx/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
@@ -124,6 +125,7 @@ Solving Leetcode with python 3
 | [0316-remove-duplicate-letters](https://github.com/lucidfoxx/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/lucidfoxx/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/lucidfoxx/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lucidfoxx/Leetcode/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/lucidfoxx/Leetcode/tree/master/0468-validate-ip-address) |
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
@@ -277,6 +279,7 @@ Solving Leetcode with python 3
 | [0137-single-number-ii](https://github.com/lucidfoxx/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lucidfoxx/Leetcode/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/lucidfoxx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
@@ -286,6 +289,7 @@ Solving Leetcode with python 3
 | [0217-contains-duplicate](https://github.com/lucidfoxx/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lucidfoxx/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lucidfoxx/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/lucidfoxx/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lucidfoxx/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |

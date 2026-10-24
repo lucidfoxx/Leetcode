@@ -28,6 +28,7 @@ Solving Leetcode with python 3
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/lucidfoxx/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1748-sum-of-unique-elements](https://github.com/lucidfoxx/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lucidfoxx/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lucidfoxx/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -59,6 +60,7 @@ Solving Leetcode with python 3
 | [0500-keyboard-row](https://github.com/lucidfoxx/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/lucidfoxx/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
+| [1748-sum-of-unique-elements](https://github.com/lucidfoxx/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lucidfoxx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -331,6 +333,7 @@ Solving Leetcode with python 3
 | [0169-majority-element](https://github.com/lucidfoxx/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
+| [1748-sum-of-unique-elements](https://github.com/lucidfoxx/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

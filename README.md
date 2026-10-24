@@ -140,6 +140,7 @@ Solving Leetcode with python 3
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lucidfoxx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lucidfoxx/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lucidfoxx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/lucidfoxx/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lucidfoxx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lucidfoxx/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lucidfoxx/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -333,6 +334,7 @@ Solving Leetcode with python 3
 | [0169-majority-element](https://github.com/lucidfoxx/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/lucidfoxx/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/lucidfoxx/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |

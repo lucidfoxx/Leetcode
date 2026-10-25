@@ -26,6 +26,7 @@ Solving Leetcode with python 3
 | [0599-minimum-index-sum-of-two-lists](https://github.com/lucidfoxx/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/lucidfoxx/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/lucidfoxx/Leetcode/tree/master/0819-most-common-word) |
+| [0896-monotonic-array](https://github.com/lucidfoxx/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/lucidfoxx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lucidfoxx/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |

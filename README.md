@@ -29,6 +29,7 @@ Solving Leetcode with python 3
 | [0977-squares-of-a-sorted-array](https://github.com/lucidfoxx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/lucidfoxx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lucidfoxx/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/lucidfoxx/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/lucidfoxx/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/lucidfoxx/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/lucidfoxx/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -181,6 +182,7 @@ Solving Leetcode with python 3
 | [0035-search-insert-position](https://github.com/lucidfoxx/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lucidfoxx/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/lucidfoxx/Leetcode/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/lucidfoxx/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lucidfoxx/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |

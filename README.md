@@ -94,6 +94,7 @@ Solving Leetcode with python 3
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lucidfoxx/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/lucidfoxx/Leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/lucidfoxx/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/lucidfoxx/Leetcode/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/lucidfoxx/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/lucidfoxx/Leetcode/tree/master/3870-count-commas-in-range) |

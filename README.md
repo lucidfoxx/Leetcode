@@ -51,6 +51,7 @@ Solving Leetcode with python 3
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lucidfoxx/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/lucidfoxx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/lucidfoxx/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/lucidfoxx/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -162,6 +163,7 @@ Solving Leetcode with python 3
 | [2942-find-words-containing-character](https://github.com/lucidfoxx/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/lucidfoxx/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/lucidfoxx/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
@@ -211,12 +213,14 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lucidfoxx/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/lucidfoxx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lucidfoxx/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lucidfoxx/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +303,7 @@ Solving Leetcode with python 3
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lucidfoxx/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lucidfoxx/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/lucidfoxx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -345,6 +350,7 @@ Solving Leetcode with python 3
 | ------- |
 | [0169-majority-element](https://github.com/lucidfoxx/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/lucidfoxx/Leetcode/tree/master/0191-number-of-1-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -369,10 +375,12 @@ Solving Leetcode with python 3
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lucidfoxx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

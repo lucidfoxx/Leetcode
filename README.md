@@ -47,6 +47,7 @@ Solving Leetcode with python 3
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lucidfoxx/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/lucidfoxx/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/lucidfoxx/Leetcode/tree/master/2974-minimum-number-game) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lucidfoxx/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lucidfoxx/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lucidfoxx/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lucidfoxx/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
